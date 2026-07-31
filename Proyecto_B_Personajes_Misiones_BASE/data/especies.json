@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "nombre": "Humano"
+  },
+  {
+    "id": 2,
+    "nombre": "Androide"
+  },
+  {
+    "id": 3,
+    "nombre": "Alienígena"
+  },
+  {
+    "id": 4,
+    "nombre": "Robot"
+  },
+  {
+    "id": 5,
+    "nombre": "Mutante"
+  },
+  {
+    "id": 6,
+    "nombre": "Animal"
+  },
+  {
+    "id": 7,
+    "nombre": "Humanoide"
+  },
+  {
+    "id": 8,
+    "nombre": "Desconocida"
+  }
+]

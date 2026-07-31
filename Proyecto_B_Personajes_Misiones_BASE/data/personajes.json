@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "nombre": "Nova Vega",
+    "especieId": 1,
+    "estado": "Activo",
+    "genero": "Femenino",
+    "origen": "Tierra",
+    "imagen": "assets/img/personaje-01.svg"
+  },
+  {
+    "id": 2,
+    "nombre": "Orion Cruz",
+    "especieId": 2,
+    "estado": "Activo",
+    "genero": "Masculino",
+    "origen": "Marte",
+    "imagen": "assets/img/personaje-02.svg"
+  },
+  {
+    "id": 3,
+    "nombre": "Luna Andrómeda",
+    "especieId": 3,
+    "estado": "Activo",
+    "genero": "Otro",
+    "origen": "Luna",
+    "imagen": "assets/img/personaje-03.svg"
+  },
+  {
+    "id": 4,
+    "nombre": "Atlas Quintero",
+    "especieId": 4,
+    "estado": "Inactivo",
+    "genero": "Femenino",
+    "origen": "Saturno",
+    "imagen": "assets/img/personaje-04.svg"
+  },
+  {
+    "id": 5,
+    "nombre": "Mara Eclipse",
+    "especieId": 5,
+    "estado": "Desconocido",
+    "genero": "Masculino",
+    "origen": "Venus",
+    "imagen": "assets/img/personaje-05.svg"
+  },
+  {
+    "id": 6,
+    "nombre": "Leo Cometa",
+    "especieId": 6,
+    "estado": "Activo",
+    "genero": "Otro",
+    "origen": "Júpiter",
+    "imagen": "assets/img/personaje-06.svg"
+  },
+  {
+    "id": 7,
+    "nombre": "Iris Galaxia",
+    "especieId": 7,
+    "estado": "Activo",
+    "genero": "Femenino",
+    "origen": "Nebulosa N-7",
+    "imagen": "assets/img/personaje-07.svg"
+  },
+  {
+    "id": 8,
+    "nombre": "Dante Cosmos",
+    "especieId": 8,
+    "estado": "Activo",
+    "genero": "Masculino",
+    "origen": "Dimensión X",
+    "imagen": "assets/img/personaje-08.svg"
+  },
+  {
+    "id": 9,
+    "nombre": "Vera Nebulosa",
+    "especieId": 1,
+    "estado": "Inactivo",
+    "genero": "Otro",
+    "origen": "Tierra",
+    "imagen": "assets/img/personaje-09.svg"
+  },
+  {
+    "id": 10,
+    "nombre": "Nico Solaris",
+    "especieId": 2,
+    "estado": "Desconocido",
+    "genero": "Femenino",
+    "origen": "Marte",
+    "imagen": "assets/img/personaje-10.svg"
+  },
+  {
+    "id": 11,
+    "nombre": "Sara Quásar",
+    "especieId": 3,
+    "estado": "Activo",
+    "genero": "Masculino",
+    "origen": "Luna",
+    "imagen": "assets/img/personaje-11.svg"
+  },
+  {
+    "id": 12,
+    "nombre": "Axel Órbita",
+    "especieId": 4,
+    "estado": "Activo",
+    "genero": "Otro",
+    "origen": "Saturno",
+    "imagen": "assets/img/personaje-12.svg"
+  },
+  {
+    "id": 13,
+    "nombre": "Mía Estelar",
+    "especieId": 5,
+    "estado": "Activo",
+    "genero": "Femenino",
+    "origen": "Venus",
+    "imagen": "assets/img/personaje-13.svg"
+  },
+  {
+    "id": 14,
+    "nombre": "Gael Zenith",
+    "especieId": 6,
+    "estado": "Inactivo",
+    "genero": "Masculino",
+    "origen": "Júpiter",
+    "imagen": "assets/img/personaje-14.svg"
+  },
+  {
+    "id": 15,
+    "nombre": "Noa Mercurio",
+    "especieId": 7,
+    "estado": "Desconocido",
+    "genero": "Otro",
+    "origen": "Nebulosa N-7",
+    "imagen": "assets/img/personaje-15.svg"
+  },
+  {
+    "id": 16,
+    "nombre": "Emma Saturno",
+    "especieId": 8,
+    "estado": "Activo",
+    "genero": "Femenino",
+    "origen": "Dimensión X",
+    "imagen": "assets/img/personaje-16.svg"
+  },
+  {
+    "id": 17,
+    "nombre": "Ian Plutón",
+    "especieId": 1,
+    "estado": "Activo",
+    "genero": "Masculino",
+    "origen": "Tierra",
+    "imagen": "assets/img/personaje-17.svg"
+  },
+  {
+    "id": 18,
+    "nombre": "Alma Venus",
+    "especieId": 2,
+    "estado": "Activo",
+    "genero": "Otro",
+    "origen": "Marte",
+    "imagen": "assets/img/personaje-18.svg"
+  },
+  {
+    "id": 19,
+    "nombre": "Teo Marte",
+    "especieId": 3,
+    "estado": "Inactivo",
+    "genero": "Femenino",
+    "origen": "Luna",
+    "imagen": "assets/img/personaje-19.svg"
+  },
+  {
+    "id": 20,
+    "nombre": "Lía Júpiter",
+    "especieId": 4,
+    "estado": "Desconocido",
+    "genero": "Masculino",
+    "origen": "Saturno",
+    "imagen": "assets/img/personaje-20.svg"
+  },
+  {
+    "id": 21,
+    "nombre": "Bruno Asteroide",
+    "especieId": 5,
+    "estado": "Activo",
+    "genero": "Otro",
+    "origen": "Venus",
+    "imagen": "assets/img/personaje-21.svg"
+  },
+  {
+    "id": 22,
+    "nombre": "Zoe Aurora",
+    "especieId": 6,
+    "estado": "Activo",
+    "genero": "Femenino",
+    "origen": "Júpiter",
+    "imagen": "assets/img/personaje-22.svg"
+  },
+  {
+    "id": 23,
+    "nombre": "Hugo Pulsar",
+    "especieId": 7,
+    "estado": "Activo",
+    "genero": "Masculino",
+    "origen": "Nebulosa N-7",
+    "imagen": "assets/img/personaje-23.svg"
+  },
+  {
+    "id": 24,
+    "nombre": "Eva Ceres",
+    "especieId": 8,
+    "estado": "Inactivo",
+    "genero": "Otro",
+    "origen": "Dimensión X",
+    "imagen": "assets/img/personaje-24.svg"
+  },
+  {
+    "id": 25,
+    "nombre": "Dylan Fénix",
+    "especieId": 1,
+    "estado": "Desconocido",
+    "genero": "Femenino",
+    "origen": "Tierra",
+    "imagen": "assets/img/personaje-25.svg"
+  },
+  {
+    "id": 26,
+    "nombre": "Nina Vector",
+    "especieId": 2,
+    "estado": "Activo",
+    "genero": "Masculino",
+    "origen": "Marte",
+    "imagen": "assets/img/personaje-26.svg"
+  },
+  {
+    "id": 27,
+    "nombre": "Lucas Titan",
+    "especieId": 3,
+    "estado": "Activo",
+    "genero": "Otro",
+    "origen": "Luna",
+    "imagen": "assets/img/personaje-27.svg"
+  },
+  {
+    "id": 28,
+    "nombre": "Isla Prisma",
+    "especieId": 4,
+    "estado": "Activo",
+    "genero": "Femenino",
+    "origen": "Saturno",
+    "imagen": "assets/img/personaje-28.svg"
+  },
+  {
+    "id": 29,
+    "nombre": "Marco Vórtice",
+    "especieId": 5,
+    "estado": "Inactivo",
+    "genero": "Masculino",
+    "origen": "Venus",
+    "imagen": "assets/img/personaje-29.svg"
+  },
+  {
+    "id": 30,
+    "nombre": "Ayla Boreal",
+    "especieId": 6,
+    "estado": "Desconocido",
+    "genero": "Otro",
+    "origen": "Júpiter",
+    "imagen": "assets/img/personaje-30.svg"
+  }
+]

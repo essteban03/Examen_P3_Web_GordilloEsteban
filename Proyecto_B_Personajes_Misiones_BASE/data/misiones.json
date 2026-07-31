@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1001,
+    "personajeId": 1,
+    "nombre": "Exploración del sector 01",
+    "dificultad": "Baja",
+    "estado": "Completada",
+    "puntos": 52
+  },
+  {
+    "id": 1002,
+    "personajeId": 2,
+    "nombre": "Rescate orbital 02",
+    "dificultad": "Media",
+    "estado": "En proceso",
+    "puntos": 69
+  },
+  {
+    "id": 1003,
+    "personajeId": 3,
+    "nombre": "Cartografía estelar 03",
+    "dificultad": "Alta",
+    "estado": "Pendiente",
+    "puntos": 86
+  },
+  {
+    "id": 1004,
+    "personajeId": 4,
+    "nombre": "Defensa de estación 04",
+    "dificultad": "Baja",
+    "estado": "Completada",
+    "puntos": 37
+  },
+  {
+    "id": 1005,
+    "personajeId": 5,
+    "nombre": "Investigación temporal 05",
+    "dificultad": "Media",
+    "estado": "En proceso",
+    "puntos": 54
+  },
+  {
+    "id": 1006,
+    "personajeId": 6,
+    "nombre": "Transporte diplomático 06",
+    "dificultad": "Alta",
+    "estado": "Pendiente",
+    "puntos": 71
+  },
+  {
+    "id": 1007,
+    "personajeId": 7,
+    "nombre": "Búsqueda de recursos 07",
+    "dificultad": "Baja",
+    "estado": "Completada",
+    "puntos": 88
+  },
+  {
+    "id": 1008,
+    "personajeId": 8,
+    "nombre": "Patrullaje espacial 08",
+    "dificultad": "Media",
+    "estado": "En proceso",
+    "puntos": 39
+  },
+  {
+    "id": 1009,
+    "personajeId": 9,
+    "nombre": "Reparación de satélite 09",
+    "dificultad": "Alta",
+    "estado": "Pendiente",
+    "puntos": 56
+  },
+  {
+    "id": 1010,
+    "personajeId": 10,
+    "nombre": "Contacto interdimensional 10",
+    "dificultad": "Baja",
+    "estado": "Completada",
+    "puntos": 73
+  },
+  {
+    "id": 1011,
+    "personajeId": 11,
+    "nombre": "Exploración del sector 11",
+    "dificultad": "Media",
+    "estado": "En proceso",
+    "puntos": 90
+  },
+  {
+    "id": 1012,
+    "personajeId": 12,
+    "nombre": "Rescate orbital 12",
+    "dificultad": "Alta",
+    "estado": "Pendiente",
+    "puntos": 41
+  },
+  {
+    "id": 1013,
+    "personajeId": 13,
+    "nombre": "Cartografía estelar 13",
+    "dificultad": "Baja",
+    "estado": "Completada",
+    "puntos": 58
+  },
+  {
+    "id": 1014,
+    "personajeId": 14,
+    "nombre": "Defensa de estación 14",
+    "dificultad": "Media",
+    "estado": "En proceso",
+    "puntos": 75
+  },
+  {
+    "id": 1015,
+    "personajeId": 15,
+    "nombre": "Investigación temporal 15",
+    "dificultad": "Alta",
+    "estado": "Pendiente",
+    "puntos": 92
+  },
+  {
+    "id": 1016,
+    "personajeId": 16,
+    "nombre": "Transporte diplomático 16",
+    "dificultad": "Baja",
+    "estado": "Completada",
+    "puntos": 43
+  },
+  {
+    "id": 1017,
+    "personajeId": 17,
+    "nombre": "Búsqueda de recursos 17",
+    "dificultad": "Media",
+    "estado": "En proceso",
+    "puntos": 60
+  },
+  {
+    "id": 1018,
+    "personajeId": 18,
+    "nombre": "Patrullaje espacial 18",
+    "dificultad": "Alta",
+    "estado": "Pendiente",
+    "puntos": 77
+  },
+  {
+    "id": 1019,
+    "personajeId": 19,
+    "nombre": "Reparación de satélite 19",
+    "dificultad": "Baja",
+    "estado": "Completada",
+    "puntos": 94
+  },
+  {
+    "id": 1020,
+    "personajeId": 20,
+    "nombre": "Contacto interdimensional 20",
+    "dificultad": "Media",
+    "estado": "En proceso",
+    "puntos": 45
+  },
+  {
+    "id": 1021,
+    "personajeId": 21,
+    "nombre": "Exploración del sector 21",
+    "dificultad": "Alta",
+    "estado": "Pendiente",
+    "puntos": 62
+  },
+  {
+    "id": 1022,
+    "personajeId": 22,
+    "nombre": "Rescate orbital 22",
+    "dificultad": "Baja",
+    "estado": "Completada",
+    "puntos": 79
+  },
+  {
+    "id": 1023,
+    "personajeId": 23,
+    "nombre": "Cartografía estelar 23",
+    "dificultad": "Media",
+    "estado": "En proceso",
+    "puntos": 96
+  },
+  {
+    "id": 1024,
+    "personajeId": 24,
+    "nombre": "Defensa de estación 24",
+    "dificultad": "Alta",
+    "estado": "Pendiente",
+    "puntos": 47
+  },
+  {
+    "id": 1025,
+    "personajeId": 25,
+    "nombre": "Investigación temporal 25",
+    "dificultad": "Baja",
+    "estado": "Completada",
+    "puntos": 64
+  },
+  {
+    "id": 1026,
+    "personajeId": 26,
+    "nombre": "Transporte diplomático 26",
+    "dificultad": "Media",
+    "estado": "En proceso",
+    "puntos": 81
+  },
+  {
+    "id": 1027,
+    "personajeId": 27,
+    "nombre": "Búsqueda de recursos 27",
+    "dificultad": "Alta",
+    "estado": "Pendiente",
+    "puntos": 98
+  },
+  {
+    "id": 1028,
+    "personajeId": 28,
+    "nombre": "Patrullaje espacial 28",
+    "dificultad": "Baja",
+    "estado": "Completada",
+    "puntos": 49
+  },
+  {
+    "id": 1029,
+    "personajeId": 29,
+    "nombre": "Reparación de satélite 29",
+    "dificultad": "Media",
+    "estado": "En proceso",
+    "puntos": 66
+  },
+  {
+    "id": 1030,
+    "personajeId": 30,
+    "nombre": "Contacto interdimensional 30",
+    "dificultad": "Alta",
+    "estado": "Pendiente",
+    "puntos": 83
+  }
+]
